@@ -1,0 +1,12 @@
+{
+  "name": "teko-smtp-server",
+  "version": "1.0.0",
+  "main": "teko-server.js",
+  "scripts": {
+    "start": "node teko-server.js"
+  },
+  "dependencies": {
+    "mailparser": "^3.7.2",
+    "smtp-server": "^3.13.0"
+  }
+}
